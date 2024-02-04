@@ -2,6 +2,9 @@ import { Component, ViewChild, OnInit, ElementRef, Inject, PLATFORM_ID, NgModule
 import { RouterOutlet } from '@angular/router';
 import { CommonModule, isPlatformBrowser } from '@angular/common';
 
+// import { AngularFireModule } from '@angular/fire';
+// import { AngularFireDatabaseModule } from '@angular/fire/database';
+// import { AngularFireStorageModule } from '@angular/fire/storage';
 declare var MediaRecorder: any;
 
 @Component({

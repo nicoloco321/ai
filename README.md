@@ -6,22 +6,23 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Day 1
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Figuring out how to set up an Angular project environment because this is new technology to me.
 
-## Build
+## Day 2
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Learn how to code in Angular and what each implemented file does.
 
-## Running unit tests
+## Day 3
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Implemented some code to get a video feed and started to import firebase api.
 
-## Running end-to-end tests
+## Needs work
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+I will continue to work on this becuase I like this challenge. 
+The video feed needs work and still need to create files to store to firebase.
 
-## Further help
+## Citations
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Almost all the code to learn how to display a video feed came from `https://www.c-sharpcorner.com/article/how-to-record-a-video-using-angular/`.
